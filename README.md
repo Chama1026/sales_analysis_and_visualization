@@ -1,4 +1,4 @@
-# Adventure Work Sales Performance and Marketing Analysis
+# Sales Performance and Marketing Analysis on Adventure Work Cycles
 
 ## Project Overview
 
@@ -41,3 +41,22 @@ The main goals of this project are to create an interactive dashboard for the sa
 - 71.72% of the customers are subscribed to the company's email list.
   
 ## Actionable Insights
+### 1. Study Sales Revenue Trend
+- Investigate the reasons for the significant growth in revenue this year to in order to sustain the growth.
+- Dive deeper into the recurring dips in April, August, and November to identify potential seansonal or operational issue.
+
+### 2. Re-adjust the Target-setting Mechanism of sales team
+- The fact that salespeople failed to meet their target despite the sales growth suggests the current target-setting mechanism is too aggressive. Adjustment needs to be made to avoid harming the morale of the sales team.
+
+### 3. Market Exploration
+- Sales and marketing team should work together to explore market opportunities in Asia, South America, and Africa, which are all huge markets for outdoor products.
+- Diversifying sales regions may offset the potential seasonal effect on the revenue.
+
+### 4. Customer Acquisition and Retention
+- Analyze the successful marketing strategy in customer acquisition and further scale it.
+- Address the high churn rate by conducting customer survey, adopting loyalty program, improving post-purchase experience etc.
+- Leverage the high email subscription rate to encourage repeat purchases through emailing personalized offers and discount.
+
+### 5. Digitalization
+- Capitalize the steady growth in online sales by enhancing the e-commerce platform, improve user experience, and direct more resources into digital marketing.
+- Ensure the supply chain could support the growth of the online sales.
