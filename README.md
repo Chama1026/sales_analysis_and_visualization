@@ -20,6 +20,10 @@ The main goals of this project are to create an interactive dashboard for the sa
 - **Sales.Customer**: Store all customer information.
 - **Sales.SalesPerson**: Store information of all salespeople.
 
+## Tools and Technologies
+- **Microsoft SQL Server Management Studio**: For restoring the database, data cleaning, transformation, and aggregation.
+- **Power BI**: For data modelling, data visualization, and creating dashboard.
+- **Power BI DEX**: Creating measures, tables, and columns.
 ## SQL Script
 [SQL Script Folder](https://github.com/Chama1026/sales_analysis_and_visualization/tree/main/SQL%20query)
 ## Power BI Dashboard
