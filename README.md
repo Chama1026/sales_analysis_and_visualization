@@ -21,8 +21,9 @@ The main goals of this project are to create an interactive dashboard for the sa
 - **Sales.SalesPerson**: Store information of all salespeople.
 
 ## SQL Script
-
+[SQL Script Folder](https://github.com/Chama1026/sales_analysis_and_visualization/tree/main/SQL%20query)
 ## Power BI Dashboard
+[Power BI File](https://github.com/Chama1026/sales_analysis_and_visualization/blob/main/Adventure%20Work%20Dashboard.pbix)
 ### Sales Dashboard
 ![Sales overview](https://github.com/user-attachments/assets/91913850-8a1a-4c38-8189-426844226425)
 #### Oberservation
